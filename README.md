@@ -1,2 +1,2 @@
 # CountDownTimer
-Simple count down timer till New Years 2022
+Simple count down timer till January 1, 2022
